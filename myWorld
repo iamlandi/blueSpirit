@@ -1,0 +1,8 @@
+public class MyWorld
+{
+  public static void main(String[] args)
+  {
+    String BS = "Silent world";
+    System.out.println("\n" + BS);
+  }
+}
